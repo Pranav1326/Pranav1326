@@ -1,27 +1,48 @@
-### About Me
+### Hi there 👋 I'm Pranav Visavadia
 
-**Hello! I'm Pranav Visavadia.**
+**Full‑Stack MERN Developer** and a professional freelancer
+Based in India | Creating scalable web & mobile apps with **MongoDB • Express • React • Node**
 
-Welcome to my portfolio! As a passionate and dedicated aspiring full-stack developer from India, I specialize in the MERN stack (MongoDB, Express.js, React.js, Node.js). I hold a Bachelor of Computer Application degree and am currently pursuing a Master of Computer Application, fine-tuning my expertise to become a frontrunner in the tech industry.
+---
 
-#### My Journey:
+## 🚀 What I Do
+- Build and deploy **production‑ready full‑stack applications**, including a real-time Blog, StackOverflow clone, and Climate Crusaders mobile app (10K+ users).
+- Skilled in **REST APIs, microservices, cloud hosting (AWS)**, and **React Native** development.
+- Passionate about clean architecture, performance optimization, and agile methodologies.
 
-- **Educational Background:** I embarked on my tech journey in 2020, acquiring a Bachelor’s degree in Computer Application and continuing my education with a Master's in the same field.
-  
-- **Professional Training:** To enhance my practical skills, I completed a Full Stack Development course on [Udemy](https://www.udemy.com), where I delved deep into front-end, back-end, and database management technologies including HTML, CSS, JavaScript, React.js, Node.js, and MongoDB.
+---
 
-#### Projects and Experience:
+## 🔧 Skills & Tools  
+| Frontend | Backend | Database | DevOps & Tools |
+|---------|---------|----------|----------------|
+| React.js, Redux | Node.js, Express.js | MongoDB, Mongoose | AWS, Git, Docker |
+| Next.js (SSR) | REST APIs | | CI/CD, Azure |
 
-- **Diverse Portfolio:** My practical experiences range from developing dynamic web applications to creating responsive websites. Notable projects include:
-  - A comprehensive **Blog Application** using the MERN stack, designed to support real-time interactions.
-  - A clone of **StackOverflow**, also built using the MERN stack, showcasing my ability to handle complex full-stack application development.
-  - Along with these, I've embarked on numerous smaller ventures that exhibit my versatility and creativity, which are visible on my [projects page](https://pranav1326.github.io/pranav-portfolio/projects).
+---
 
-#### My Vision:
+## 🌟 Featured Projects
+- **Climate Crusaders**: React Native + Node.js app with challenge tracker, badges, and AWS S3; supports 10K+ users.
+- **StackOverflow Clone**: MERN full‑stack Q&A platform with auth, voting, and user role management.
+- **Blog App**: MERN-based real-time blog platform with JWT auth, comments, and image uploading capabilities.
 
-As I continue to grow as a developer, I am eager to contribute to and learn from the tech community. I am committed to utilizing my skills to develop software solutions that are efficient, innovative, and scalable.
+*(See [Projects](#) for full list + GitHub links.)*
 
-#### Let's Connect:
+---
 
-I am always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/pranav-visavadia/), [GitHub](https://github.com/Pranav1326). Let’s build something great together.
- 
+## 📈 GitHub Stats  
+![Pranav’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pranav1326&show_icons=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav1326&layout=compact)
+
+---
+
+## 💬 Let’s Connect  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranav-visavadia)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranav1326)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/v.pranav1326)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/7984863441?text=Hey)
+
+
+
+---
+
+*“Code is like humor—when you have to explain it, it’s bad.”* – Cory House
